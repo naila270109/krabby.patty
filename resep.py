@@ -1,0 +1,7 @@
+print ("Resep krabby patty")
+print ("Bahan-Bahan:")
+print ("1. Roti")
+print ("2. Daging beef")
+print ("3. Selada")
+print ("4. Keju")
+print ("5. Tomat")
